@@ -1,0 +1,603 @@
+[RESULT]         PID: 41342      cpu usage: 0.0%         memory usage : 0.175%
+[START]  Stream Opened   2022-11-20 20:30:42
+[RESULT]         PID: 41342      cpu usage: 3.4%         memory usage : 0.178%
+[SUCCESS]        Image #1        Recieved        0.000
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.178%
+[SUCCESS]        Image #2        Recieved        0.034
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.178%
+[SUCCESS]        Image #3        Recieved        0.067
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.178%
+[SUCCESS]        Image #4        Recieved        0.101
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.178%
+[SUCCESS]        Image #5        Recieved        0.134
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.178%
+[SUCCESS]        Image #6        Recieved        0.168
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.178%
+[SUCCESS]        Image #7        Recieved        0.202
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.178%
+[SUCCESS]        Image #8        Recieved        0.235
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.178%
+[SUCCESS]        Image #9        Recieved        0.269
+[RESULT]         PID: 41342      cpu usage: 1.3%         memory usage : 0.178%
+[SUCCESS]        Image #10       Recieved        0.303
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.178%
+[SUCCESS]        Image #11       Recieved        0.336
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.178%
+[SUCCESS]        Image #12       Recieved        0.370
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.178%
+[SUCCESS]        Image #13       Recieved        0.403
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.178%
+[SUCCESS]        Image #14       Recieved        0.437
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.178%
+[SUCCESS]        Image #15       Recieved        0.471
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.178%
+[SUCCESS]        Image #16       Recieved        0.504
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.178%
+[SUCCESS]        Image #17       Recieved        0.538
+[RESULT]         PID: 41342      cpu usage: 1.3%         memory usage : 0.178%
+[SUCCESS]        Image #18       Recieved        0.572
+[RESULT]         PID: 41342      cpu usage: 1.3%         memory usage : 0.178%
+[SUCCESS]        Image #19       Recieved        0.606
+[RESULT]         PID: 41342      cpu usage: 1.5%         memory usage : 0.178%
+[SUCCESS]        Image #20       Recieved        0.640
+[RESULT]         PID: 41342      cpu usage: 1.5%         memory usage : 0.178%
+[SUCCESS]        Image #21       Recieved        0.673
+[RESULT]         PID: 41342      cpu usage: 1.3%         memory usage : 0.178%
+[SUCCESS]        Image #22       Recieved        0.707
+[RESULT]         PID: 41342      cpu usage: 1.5%         memory usage : 0.178%
+[SUCCESS]        Image #23       Recieved        0.741
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.178%
+[SUCCESS]        Image #24       Recieved        0.775
+[RESULT]         PID: 41342      cpu usage: 1.4%         memory usage : 0.178%
+[SUCCESS]        Image #25       Recieved        0.809
+[RESULT]         PID: 41342      cpu usage: 1.4%         memory usage : 0.178%
+[SUCCESS]        Image #26       Recieved        0.842
+[RESULT]         PID: 41342      cpu usage: 1.4%         memory usage : 0.178%
+[SUCCESS]        Image #27       Recieved        0.876
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.178%
+[SUCCESS]        Image #28       Recieved        0.909
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.178%
+[SUCCESS]        Image #29       Recieved        0.943
+[RESULT]         PID: 41342      cpu usage: 1.4%         memory usage : 0.178%
+[SUCCESS]        Image #30       Recieved        0.977
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.178%
+[SUCCESS]        Image #31       Recieved        1.011
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.178%
+[SUCCESS]        Image #32       Recieved        1.044
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.178%
+[SUCCESS]        Image #33       Recieved        1.078
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.178%
+[SUCCESS]        Image #34       Recieved        1.112
+[RESULT]         PID: 41342      cpu usage: 1.4%         memory usage : 0.178%
+[SUCCESS]        Image #35       Recieved        1.145
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.178%
+[SUCCESS]        Image #36       Recieved        1.179
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.178%
+[SUCCESS]        Image #37       Recieved        1.213
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.178%
+[SUCCESS]        Image #38       Recieved        1.246
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.178%
+[SUCCESS]        Image #39       Recieved        1.280
+[RESULT]         PID: 41342      cpu usage: 1.8%         memory usage : 0.178%
+[SUCCESS]        Image #40       Recieved        1.314
+[RESULT]         PID: 41342      cpu usage: 1.8%         memory usage : 0.178%
+[SUCCESS]        Image #41       Recieved        1.348
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.178%
+[SUCCESS]        Image #42       Recieved        1.381
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.178%
+[SUCCESS]        Image #43       Recieved        1.415
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.178%
+[SUCCESS]        Image #44       Recieved        1.449
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.178%
+[SUCCESS]        Image #45       Recieved        1.482
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.178%
+[SUCCESS]        Image #46       Recieved        1.516
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.178%
+[SUCCESS]        Image #47       Recieved        1.550
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.178%
+[SUCCESS]        Image #48       Recieved        1.583
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.178%
+[SUCCESS]        Image #49       Recieved        1.617
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.178%
+[SUCCESS]        Image #50       Recieved        1.651
+[RESULT]         PID: 41342      cpu usage: 1.3%         memory usage : 0.178%
+[SUCCESS]        Image #51       Recieved        1.685
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.178%
+[SUCCESS]        Image #52       Recieved        1.718
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.178%
+[SUCCESS]        Image #53       Recieved        1.752
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.178%
+[SUCCESS]        Image #54       Recieved        1.785
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.178%
+[SUCCESS]        Image #55       Recieved        1.819
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.178%
+[SUCCESS]        Image #56       Recieved        1.853
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.178%
+[SUCCESS]        Image #57       Recieved        1.886
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.178%
+[SUCCESS]        Image #58       Recieved        1.920
+[RESULT]         PID: 41342      cpu usage: 1.7%         memory usage : 0.179%
+[SUCCESS]        Image #59       Recieved        1.954
+[RESULT]         PID: 41342      cpu usage: 1.7%         memory usage : 0.179%
+[SUCCESS]        Image #60       Recieved        1.988
+[RESULT]         PID: 41342      cpu usage: 1.3%         memory usage : 0.179%
+[SUCCESS]        Image #61       Recieved        2.021
+[RESULT]         PID: 41342      cpu usage: 1.3%         memory usage : 0.179%
+[SUCCESS]        Image #62       Recieved        2.055
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #63       Recieved        2.089
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #64       Recieved        2.122
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.179%
+[SUCCESS]        Image #65       Recieved        2.156
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.179%
+[SUCCESS]        Image #66       Recieved        2.190
+[RESULT]         PID: 41342      cpu usage: 1.7%         memory usage : 0.179%
+[SUCCESS]        Image #67       Recieved        2.224
+[RESULT]         PID: 41342      cpu usage: 1.5%         memory usage : 0.179%
+[SUCCESS]        Image #68       Recieved        2.258
+[RESULT]         PID: 41342      cpu usage: 1.3%         memory usage : 0.179%
+[SUCCESS]        Image #69       Recieved        2.291
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.179%
+[SUCCESS]        Image #70       Recieved        2.325
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.179%
+[SUCCESS]        Image #71       Recieved        2.359
+[RESULT]         PID: 41342      cpu usage: 1.7%         memory usage : 0.179%
+[SUCCESS]        Image #72       Recieved        2.393
+[RESULT]         PID: 41342      cpu usage: 1.8%         memory usage : 0.179%
+[SUCCESS]        Image #73       Recieved        2.427
+[RESULT]         PID: 41342      cpu usage: 1.4%         memory usage : 0.179%
+[SUCCESS]        Image #74       Recieved        2.461
+[RESULT]         PID: 41342      cpu usage: 1.3%         memory usage : 0.179%
+[SUCCESS]        Image #75       Recieved        2.494
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #76       Recieved        2.528
+[RESULT]         PID: 41342      cpu usage: 1.3%         memory usage : 0.179%
+[SUCCESS]        Image #77       Recieved        2.562
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #78       Recieved        2.595
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.179%
+[SUCCESS]        Image #79       Recieved        2.629
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #80       Recieved        2.663
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.179%
+[SUCCESS]        Image #81       Recieved        2.696
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.179%
+[SUCCESS]        Image #82       Recieved        2.730
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.179%
+[SUCCESS]        Image #83       Recieved        2.764
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #84       Recieved        2.797
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #85       Recieved        2.831
+[RESULT]         PID: 41342      cpu usage: 0.9%         memory usage : 0.179%
+[SUCCESS]        Image #86       Recieved        2.865
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.179%
+[SUCCESS]        Image #87       Recieved        2.899
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.179%
+[SUCCESS]        Image #88       Recieved        2.932
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #89       Recieved        2.966
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #90       Recieved        2.999
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.179%
+[SUCCESS]        Image #91       Recieved        3.033
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.179%
+[SUCCESS]        Image #92       Recieved        3.067
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.179%
+[SUCCESS]        Image #93       Recieved        3.100
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.179%
+[SUCCESS]        Image #94       Recieved        3.134
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #95       Recieved        3.168
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.179%
+[SUCCESS]        Image #96       Recieved        3.201
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #97       Recieved        3.235
+[RESULT]         PID: 41342      cpu usage: 1.4%         memory usage : 0.179%
+[SUCCESS]        Image #98       Recieved        3.269
+[RESULT]         PID: 41342      cpu usage: 1.4%         memory usage : 0.179%
+[SUCCESS]        Image #99       Recieved        3.302
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.179%
+[SUCCESS]        Image #100      Recieved        3.336
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #101      Recieved        3.369
+[RESULT]         PID: 41342      cpu usage: 1.3%         memory usage : 0.179%
+[SUCCESS]        Image #102      Recieved        3.403
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #103      Recieved        3.437
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #104      Recieved        3.470
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.179%
+[SUCCESS]        Image #105      Recieved        3.504
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.179%
+[SUCCESS]        Image #106      Recieved        3.538
+[RESULT]         PID: 41342      cpu usage: 1.3%         memory usage : 0.179%
+[SUCCESS]        Image #107      Recieved        3.572
+[RESULT]         PID: 41342      cpu usage: 1.5%         memory usage : 0.179%
+[SUCCESS]        Image #108      Recieved        3.605
+[RESULT]         PID: 41342      cpu usage: 1.5%         memory usage : 0.179%
+[SUCCESS]        Image #109      Recieved        3.639
+[RESULT]         PID: 41342      cpu usage: 1.5%         memory usage : 0.179%
+[SUCCESS]        Image #110      Recieved        3.673
+[RESULT]         PID: 41342      cpu usage: 1.5%         memory usage : 0.179%
+[SUCCESS]        Image #111      Recieved        3.706
+[RESULT]         PID: 41342      cpu usage: 1.7%         memory usage : 0.179%
+[SUCCESS]        Image #112      Recieved        3.740
+[RESULT]         PID: 41342      cpu usage: 1.4%         memory usage : 0.179%
+[SUCCESS]        Image #113      Recieved        3.774
+[RESULT]         PID: 41342      cpu usage: 1.3%         memory usage : 0.179%
+[SUCCESS]        Image #114      Recieved        3.808
+[RESULT]         PID: 41342      cpu usage: 1.3%         memory usage : 0.179%
+[SUCCESS]        Image #115      Recieved        3.842
+[RESULT]         PID: 41342      cpu usage: 1.4%         memory usage : 0.179%
+[SUCCESS]        Image #116      Recieved        3.876
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #117      Recieved        3.910
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #118      Recieved        3.943
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.179%
+[SUCCESS]        Image #119      Recieved        3.977
+[RESULT]         PID: 41342      cpu usage: 1.3%         memory usage : 0.179%
+[SUCCESS]        Image #120      Recieved        4.011
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.179%
+[SUCCESS]        Image #121      Recieved        4.045
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #122      Recieved        4.079
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #123      Recieved        4.112
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #124      Recieved        4.146
+[RESULT]         PID: 41342      cpu usage: 1.3%         memory usage : 0.179%
+[SUCCESS]        Image #125      Recieved        4.180
+[RESULT]         PID: 41342      cpu usage: 1.4%         memory usage : 0.179%
+[SUCCESS]        Image #126      Recieved        4.213
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.179%
+[SUCCESS]        Image #127      Recieved        4.247
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.179%
+[SUCCESS]        Image #128      Recieved        4.281
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.179%
+[SUCCESS]        Image #129      Recieved        4.314
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.179%
+[SUCCESS]        Image #130      Recieved        4.348
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.179%
+[SUCCESS]        Image #131      Recieved        4.382
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.179%
+[SUCCESS]        Image #132      Recieved        4.415
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.179%
+[SUCCESS]        Image #133      Recieved        4.449
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.179%
+[SUCCESS]        Image #134      Recieved        4.483
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #135      Recieved        4.516
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.179%
+[SUCCESS]        Image #136      Recieved        4.550
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.179%
+[SUCCESS]        Image #137      Recieved        4.584
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #138      Recieved        4.617
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.179%
+[SUCCESS]        Image #139      Recieved        4.651
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.179%
+[SUCCESS]        Image #140      Recieved        4.684
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.179%
+[SUCCESS]        Image #141      Recieved        4.718
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #142      Recieved        4.752
+[RESULT]         PID: 41342      cpu usage: 1.5%         memory usage : 0.179%
+[SUCCESS]        Image #143      Recieved        4.786
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #144      Recieved        4.819
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.179%
+[SUCCESS]        Image #145      Recieved        4.853
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.179%
+[SUCCESS]        Image #146      Recieved        4.887
+[RESULT]         PID: 41342      cpu usage: 1.5%         memory usage : 0.179%
+[SUCCESS]        Image #147      Recieved        4.920
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.179%
+[SUCCESS]        Image #148      Recieved        4.954
+[RESULT]         PID: 41342      cpu usage: 1.6%         memory usage : 0.179%
+[SUCCESS]        Image #149      Recieved        4.988
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #150      Recieved        5.021
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.179%
+[SUCCESS]        Image #151      Recieved        5.055
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.179%
+[SUCCESS]        Image #152      Recieved        5.089
+[RESULT]         PID: 41342      cpu usage: 1.5%         memory usage : 0.179%
+[SUCCESS]        Image #153      Recieved        5.122
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.179%
+[SUCCESS]        Image #154      Recieved        5.156
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #155      Recieved        5.190
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #156      Recieved        5.224
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #157      Recieved        5.257
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.179%
+[SUCCESS]        Image #158      Recieved        5.291
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #159      Recieved        5.325
+[RESULT]         PID: 41342      cpu usage: 1.4%         memory usage : 0.179%
+[SUCCESS]        Image #160      Recieved        5.359
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.179%
+[SUCCESS]        Image #161      Recieved        5.393
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.179%
+[SUCCESS]        Image #162      Recieved        5.426
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #163      Recieved        5.460
+[RESULT]         PID: 41342      cpu usage: 1.3%         memory usage : 0.179%
+[SUCCESS]        Image #164      Recieved        5.494
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #165      Recieved        5.528
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.179%
+[SUCCESS]        Image #166      Recieved        5.561
+[RESULT]         PID: 41342      cpu usage: 1.3%         memory usage : 0.179%
+[SUCCESS]        Image #167      Recieved        5.595
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #168      Recieved        5.629
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #169      Recieved        5.662
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #170      Recieved        5.696
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #171      Recieved        5.730
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.179%
+[SUCCESS]        Image #172      Recieved        5.763
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #173      Recieved        5.797
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.179%
+[SUCCESS]        Image #174      Recieved        5.830
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #175      Recieved        5.864
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.179%
+[SUCCESS]        Image #176      Recieved        5.898
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.179%
+[SUCCESS]        Image #177      Recieved        5.931
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.179%
+[SUCCESS]        Image #178      Recieved        5.965
+[RESULT]         PID: 41342      cpu usage: 1.4%         memory usage : 0.179%
+[SUCCESS]        Image #179      Recieved        5.999
+[RESULT]         PID: 41342      cpu usage: 1.3%         memory usage : 0.179%
+[SUCCESS]        Image #180      Recieved        6.032
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.179%
+[SUCCESS]        Image #181      Recieved        6.066
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.179%
+[SUCCESS]        Image #182      Recieved        6.100
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.179%
+[SUCCESS]        Image #183      Recieved        6.133
+[RESULT]         PID: 41342      cpu usage: 1.4%         memory usage : 0.179%
+[SUCCESS]        Image #184      Recieved        6.167
+[RESULT]         PID: 41342      cpu usage: 14.5%        memory usage : 0.277%
+[SUCCESS]        Image #185      Recieved        6.209
+[RESULT]         PID: 41342      cpu usage: 2.1%         memory usage : 0.277%
+[SUCCESS]        Image #186      Recieved        6.241
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.277%
+[SUCCESS]        Image #187      Recieved        6.274
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.277%
+[SUCCESS]        Image #188      Recieved        6.308
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #189      Recieved        6.341
+[RESULT]         PID: 41342      cpu usage: 1.3%         memory usage : 0.277%
+[SUCCESS]        Image #190      Recieved        6.375
+[RESULT]         PID: 41342      cpu usage: 1.3%         memory usage : 0.277%
+[SUCCESS]        Image #191      Recieved        6.409
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #192      Recieved        6.443
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.277%
+[SUCCESS]        Image #193      Recieved        6.476
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #194      Recieved        6.510
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #195      Recieved        6.544
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #196      Recieved        6.577
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #197      Recieved        6.611
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #198      Recieved        6.644
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #199      Recieved        6.678
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #200      Recieved        6.712
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.277%
+[SUCCESS]        Image #201      Recieved        6.745
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #202      Recieved        6.779
+[RESULT]         PID: 41342      cpu usage: 1.3%         memory usage : 0.277%
+[SUCCESS]        Image #203      Recieved        6.812
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #204      Recieved        6.846
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.277%
+[SUCCESS]        Image #205      Recieved        6.880
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.277%
+[SUCCESS]        Image #206      Recieved        6.913
+[RESULT]         PID: 41342      cpu usage: 1.3%         memory usage : 0.277%
+[SUCCESS]        Image #207      Recieved        6.947
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.277%
+[SUCCESS]        Image #208      Recieved        6.981
+[RESULT]         PID: 41342      cpu usage: 1.4%         memory usage : 0.277%
+[SUCCESS]        Image #209      Recieved        7.014
+[RESULT]         PID: 41342      cpu usage: 0.9%         memory usage : 0.277%
+[SUCCESS]        Image #210      Recieved        7.048
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.277%
+[SUCCESS]        Image #211      Recieved        7.081
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.277%
+[SUCCESS]        Image #212      Recieved        7.115
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #213      Recieved        7.149
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.277%
+[SUCCESS]        Image #214      Recieved        7.182
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.277%
+[SUCCESS]        Image #215      Recieved        7.216
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #216      Recieved        7.249
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.277%
+[SUCCESS]        Image #217      Recieved        7.283
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #218      Recieved        7.317
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #219      Recieved        7.351
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #220      Recieved        7.384
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #221      Recieved        7.418
+[RESULT]         PID: 41342      cpu usage: 1.3%         memory usage : 0.277%
+[SUCCESS]        Image #222      Recieved        7.452
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #223      Recieved        7.485
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.277%
+[SUCCESS]        Image #224      Recieved        7.519
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.277%
+[SUCCESS]        Image #225      Recieved        7.553
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.277%
+[SUCCESS]        Image #226      Recieved        7.586
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #227      Recieved        7.620
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.277%
+[SUCCESS]        Image #228      Recieved        7.654
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #229      Recieved        7.687
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.277%
+[SUCCESS]        Image #230      Recieved        7.721
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.277%
+[SUCCESS]        Image #231      Recieved        7.755
+[RESULT]         PID: 41342      cpu usage: 1.3%         memory usage : 0.277%
+[SUCCESS]        Image #232      Recieved        7.788
+[RESULT]         PID: 41342      cpu usage: 1.3%         memory usage : 0.277%
+[SUCCESS]        Image #233      Recieved        7.822
+[RESULT]         PID: 41342      cpu usage: 1.4%         memory usage : 0.277%
+[SUCCESS]        Image #234      Recieved        7.855
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #235      Recieved        7.889
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.277%
+[SUCCESS]        Image #236      Recieved        7.923
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #237      Recieved        7.956
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #238      Recieved        7.990
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.277%
+[SUCCESS]        Image #239      Recieved        8.024
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.277%
+[SUCCESS]        Image #240      Recieved        8.058
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #241      Recieved        8.091
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.277%
+[SUCCESS]        Image #242      Recieved        8.125
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.277%
+[SUCCESS]        Image #243      Recieved        8.159
+[RESULT]         PID: 41342      cpu usage: 1.5%         memory usage : 0.277%
+[SUCCESS]        Image #244      Recieved        8.193
+[RESULT]         PID: 41342      cpu usage: 1.4%         memory usage : 0.277%
+[SUCCESS]        Image #245      Recieved        8.227
+[RESULT]         PID: 41342      cpu usage: 1.3%         memory usage : 0.277%
+[SUCCESS]        Image #246      Recieved        8.261
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #247      Recieved        8.294
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #248      Recieved        8.328
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.277%
+[SUCCESS]        Image #249      Recieved        8.362
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #250      Recieved        8.395
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #251      Recieved        8.429
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.277%
+[SUCCESS]        Image #252      Recieved        8.463
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.277%
+[SUCCESS]        Image #253      Recieved        8.496
+[RESULT]         PID: 41342      cpu usage: 1.3%         memory usage : 0.277%
+[SUCCESS]        Image #254      Recieved        8.530
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.277%
+[SUCCESS]        Image #255      Recieved        8.563
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #256      Recieved        8.597
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.277%
+[SUCCESS]        Image #257      Recieved        8.631
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #258      Recieved        8.664
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #259      Recieved        8.698
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #260      Recieved        8.732
+[RESULT]         PID: 41342      cpu usage: 1.4%         memory usage : 0.277%
+[SUCCESS]        Image #261      Recieved        8.766
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.277%
+[SUCCESS]        Image #262      Recieved        8.799
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.277%
+[SUCCESS]        Image #263      Recieved        8.833
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.277%
+[SUCCESS]        Image #264      Recieved        8.866
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.277%
+[SUCCESS]        Image #265      Recieved        8.900
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.277%
+[SUCCESS]        Image #266      Recieved        8.933
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #267      Recieved        8.967
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.277%
+[SUCCESS]        Image #268      Recieved        9.001
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #269      Recieved        9.034
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #270      Recieved        9.068
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #271      Recieved        9.102
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.277%
+[SUCCESS]        Image #272      Recieved        9.135
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #273      Recieved        9.169
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.277%
+[SUCCESS]        Image #274      Recieved        9.202
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.277%
+[SUCCESS]        Image #275      Recieved        9.236
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.277%
+[SUCCESS]        Image #276      Recieved        9.270
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #277      Recieved        9.303
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #278      Recieved        9.337
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #279      Recieved        9.370
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.277%
+[SUCCESS]        Image #280      Recieved        9.404
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #281      Recieved        9.438
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.277%
+[SUCCESS]        Image #282      Recieved        9.471
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.277%
+[SUCCESS]        Image #283      Recieved        9.505
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #284      Recieved        9.538
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.277%
+[SUCCESS]        Image #285      Recieved        9.572
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #286      Recieved        9.606
+[RESULT]         PID: 41342      cpu usage: 1.0%         memory usage : 0.277%
+[SUCCESS]        Image #287      Recieved        9.640
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #288      Recieved        9.673
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #289      Recieved        9.707
+[RESULT]         PID: 41342      cpu usage: 1.3%         memory usage : 0.277%
+[SUCCESS]        Image #290      Recieved        9.740
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #291      Recieved        9.774
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[SUCCESS]        Image #292      Recieved        9.808
+[RESULT]         PID: 41342      cpu usage: 1.4%         memory usage : 0.277%
+[SUCCESS]        Image #293      Recieved        9.842
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.277%
+[SUCCESS]        Image #294      Recieved        9.876
+[RESULT]         PID: 41342      cpu usage: 1.3%         memory usage : 0.277%
+[SUCCESS]        Image #295      Recieved        9.910
+[RESULT]         PID: 41342      cpu usage: 1.8%         memory usage : 0.277%
+[SUCCESS]        Image #296      Recieved        9.943
+[RESULT]         PID: 41342      cpu usage: 1.4%         memory usage : 0.277%
+[SUCCESS]        Image #297      Recieved        9.977
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[FAIL]   Image #298      Not Recieved    10.011
+[RESULT]         PID: 41342      cpu usage: 1.2%         memory usage : 0.277%
+[FAIL]   Image #299      Not Recieved    10.045
+[RESULT]         PID: 41342      cpu usage: 1.1%         memory usage : 0.277%
+[FAIL]   Image #300      Not Recieved    10.078
+[RESULT]         Total Time: 10.078s     Latency: 0.078s         Reception Rate: 99.00%(297/300)
