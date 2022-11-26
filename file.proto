@@ -1,0 +1,16 @@
+syntax="proto3";
+
+package bidirectional;
+
+service  FileServer {
+    rpc download(stream Request) returns (stream Response) {}
+}
+
+message Request {
+    string message = 1;
+}
+
+message Response {
+    int64 message = 1;
+    bytes image = 2;
+}
