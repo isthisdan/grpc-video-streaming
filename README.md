@@ -23,7 +23,6 @@ Performance is measured for 360p, 480p, 720p, 1080p, 1440p, 2160p by 24, 30, and
 |      Hardware     |          OS         | Core        | RAM  |  SSD  | Network Average Speed | Network Max Speed | python version | grpcio version | grpcio-tools version |
 | :---------------: | :-----------------: | :---:       | :--: | :---: | :-------------------: | :---------------: | :------------: | :------------: | :------------------: |
 | Macbook Pro(2020) | macOS Monterey 12.4 | M1(8)       | 16GB | 256GB | 33Mbps                | 77Mbps            | 3.9.13         | 1.49.1         | 1.16.1               |
-| LG Gram(2020)     | Window 9            | Intel-i7(8) | 16GB | 512GB | 33Mbps                | 77Mbps            | 3.9.13         | 1.49.1         | 1.16.1               |
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Test Workflow
