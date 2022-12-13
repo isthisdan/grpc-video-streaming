@@ -34,7 +34,7 @@ Performance is measured for 360p, 480p, 720p, 1080p, 1440p, 2160p by 24, 30, and
 ### 1. Installation
 1. Clone the repo
    ```sh
-   git clone git@github.com:isthisdan/grpc-matrix-multiplication.git
+   git clone git@github.com:isthisdan/grpc-video-streaming.git
    ```
 2. Install package
    ```sh
