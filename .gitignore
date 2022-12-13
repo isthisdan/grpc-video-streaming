@@ -161,6 +161,7 @@ cython_debug/
 server1.py
 server2.py
 server3.py
+time_calc.py
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can

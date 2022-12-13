@@ -1,5 +1,6 @@
 import os
 import psutil
+from datetime import datetime as dt
 
 
 class Resource:
@@ -14,9 +15,7 @@ class Resource:
         self.memory_usage = self.py.memory_percent()
 
     def show_usage(self):
-        print(
-            f"[RESULT]\t PID: {self.pid}\t cpu usage: {self.cpu_usage}%\t memory usage : {self.memory_usage:.3f}%"
-        )
+        print(f"[RESULT]\t PID: {self.pid}\t cpu usage: {self.cpu_usage}%\t memory usage : {self.memory_usage:.3f}%")
 
 
 class Logging:
@@ -24,7 +23,7 @@ class Logging:
         print(f"[START]\t {message}\t {time}")
 
     def info(self, state, num, message, time):
-        print(f"[{state}]\t Image #{num}\t {message}\t {time:.3f}")
+        print(f"[{state}]\t Image #{num}\t {message}\t {time:.3f}\t {dt.now()}")
 
     def end(self, message, time):
         print(f"[END]\t {message}\t {time}")
@@ -37,18 +36,15 @@ class Logging:
 
     def server_result(self, total_time, success, total):
         transmission_rate = (success / total) * 100
-        print(
-            f"[RESULT]\t Total Time: {total_time:.3f}s\t Transmission Rate: {transmission_rate}%({success}/{total})"
-        )
+        print(f"[RESULT]\t Total Time: {total_time:.3f}s\t Transmission Rate: {transmission_rate}%({success}/{total})")
 
 
 class ClientC:
     IMAGE = "1080p.jpg"
-    FPS = 60
+    FPS = 24
     MAX_TIME = 10
 
 
 class ServerC:
-    # 24, 30, 60
-    FPS = 60
+    FPS = 24
     MAX_TIME = 10

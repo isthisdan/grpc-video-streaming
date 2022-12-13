@@ -4,7 +4,8 @@ from datetime import datetime as dt
 from concurrent import futures
 
 import grpc
-import file_pb2, file_pb2_grpc
+import file_pb2
+import file_pb2_grpc
 
 from lib import Resource
 from lib import Logging
